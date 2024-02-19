@@ -1,0 +1,58 @@
+{
+    "quiz" : [
+        {
+            "id" : 1,
+            "question" : [
+                "You have a busy job and often run out of time to complete all your tasks. In particular, you must respond to some emails every day that typically only require a short and simple response, but you can’t seem to get these done during your normal day.",
+                "How should you handle responding to these emails?"
+            ],
+            "answers" : [
+                "Process these emails over your luch break when you aren't working on other tasks.",
+                "Schedule some blocks of time during the day only for responding to these emails.",
+                "Multitask and reply to these emails during other meetings.",
+                "Process these emails first thing in the morning."
+            ]
+        }, 
+        {
+            "id" : 2,
+            "question" : [
+                "You’re a mid-level professional at an audit department of a large company.",
+                "Who should ideally set your goals at work?"
+            ],
+            "answers" : [
+                "The HR department; my goals are in my job description.",
+                "I set my own goals at work; I have that autonomy.",
+                "My manager and I compose my goals together.",
+                "My manager hands them out to me."
+            ]
+        },
+        {
+            "id" : 3,
+            "question" : [
+                "You’re an IT project manager at a tech company. You use both email and Slack (a chat and collaboration app). ",
+                "When is the best time to process your emails?"
+            ],
+            "answers" : [
+                "All the time because you don’t know what will be in there and need to respond as quickly as possible.",
+                "In the morning, when you have the most mental energy and sharpness.",
+                "At various moments in the day or week that you dedicate only to processing emails, depending on the required response time.",
+                "Once a week because emails are a distraction from your real work and more urgent communications aren’t emails."
+            ]
+        },   
+        {
+            "id" : 4,
+            "question" : [
+                "You work at a medium-sized company in an organizational environment that is quite busy and hectic. You’ve noticed that you have a hard time structuring your day. Your days seem quite chaotic; every morning feels derailed by a sudden inflow of emails, crises that need to be managed, or colleagues interrupting your work.",
+                "What are good strategies to deal with this?"
+            ],
+            "answers" : [
+                "Make a plan for the whole day and include some time for contingencies. That way, you’ll have some extra time in your calendar to deal with incidents.",
+                "Accept that you work in a chaotic environment and that it makes no sense to make plans.",
+                "Establish a morning routine to deal with at least some of the more important tasks that you need to get done that day.",
+                "Ignore the chaos and make a big effort to shut all the distractions out of your direct environment, including your colleagues.",
+                "Ask your boss to hire an assistant to provide structure during your work day."
+            ]
+        }
+        
+    ]
+}
